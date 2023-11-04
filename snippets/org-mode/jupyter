@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: jupyter
-# key: <jp
+# key: jpb
 # --
 #+begin_src jupyter-python
 $0
