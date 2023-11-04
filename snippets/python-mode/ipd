@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: np
-# key: np
+# name: ipd
+# key: ipd
 # group : general
 # --
-import numpy as np
+import pandas as pd
 $0
