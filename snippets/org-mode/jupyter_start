@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: jupyter_start
+# key: jupyter_start
+# --
+#+begin_src emacs-lisp 
+  ;; ensure output directory exists
+  (make-directory (concat "babel_out/" (file-name-base)) t)
+#+end_src
